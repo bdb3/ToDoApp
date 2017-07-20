@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Danny\.android\build-cache\4fbe6bbd95b338bcb4588fc72ff6eb99f082de24\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Danny\Documents\summer17\Android\practiceExercises\Android-Class-Examples\ToDoList\app\build\intermediates\pre-dexed\debug\classes_c02ccbc768bcb390d9a550cb9134bd95f2775eb3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danny\Documents\summer17\Android\practiceExercises\Android-Class-Examples\ToDoList\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f16050277e3941620049e4b3c13f95973050eff3">
+        <dex dex="C:\Users\Danny\Documents\summer17\Android\practiceExercises\Android-Class-Examples\ToDoList\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_10caca18868855eea7a3b90954bb592621c2b427\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Danny\.android\build-cache\af5991b611baa42dbcf68a033ca773500438134b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Danny\Documents\summer17\Android\practiceExercises\Android-Class-Examples\ToDoList\app\build\intermediates\pre-dexed\debug\classes_4e0d06d89f2b6915a51d9fa70e769c85f49a8080.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Danny\.android\build-cache\c2201f1cacdd857d75bba4281d432030a2684116\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\Danny\Documents\summer17\Android\practiceExercises\Android-Class-Examples\ToDoList\app\build\intermediates\pre-dexed\debug\classes_f0dcfea71af9c8f1056e61569b009dbad4604597.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Danny\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-beta4\constraint-layout-solver-1.0.0-beta4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a9cb567dc008f570c28531720168f19148da965">
+        <dex dex="C:\Users\Danny\Documents\summer17\Android\practiceExercises\Android-Class-Examples\ToDoList\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.0-beta4_3ea40f5bcf75ccbc2b2239e4cb60bc895e7f2282.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Danny\.android\build-cache\62868f3098638d26dfe6cbfe3d02d37fedb9387e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Danny\Documents\summer17\Android\practiceExercises\Android-Class-Examples\ToDoList\app\build\intermediates\pre-dexed\debug\classes_4e7f4a8a195a4ec6ad79c1ed895483529c320d83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Danny\.android\build-cache\255a58d170a62ac5040931ba1b40ed86f24c0ffe\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\Danny\Documents\summer17\Android\practiceExercises\Android-Class-Examples\ToDoList\app\build\intermediates\pre-dexed\debug\classes_9a4dfbf662fde619fc186f7fdff8424ba5186346.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Danny\.android\build-cache\0c2748b91e77b125f920cc78eaa12e2ba76d8b8f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Danny\Documents\summer17\Android\practiceExercises\Android-Class-Examples\ToDoList\app\build\intermediates\pre-dexed\debug\classes_3ea7df632e6ca13034c4c5326e44e87f045213ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Danny\.android\build-cache\17b77dce7540c2a51221b4a4210fb14760d17271\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\Danny\Documents\summer17\Android\practiceExercises\Android-Class-Examples\ToDoList\app\build\intermediates\pre-dexed\debug\classes_c3cd99be1ba53ec269d7f1e62ea17a9d74779ca4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Danny\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Danny\Documents\summer17\Android\practiceExercises\Android-Class-Examples\ToDoList\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_0c6bed0f4b745f5ea954865441bd7f0a725d3944.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Danny\.android\build-cache\beb90f485ab02c56438e87191fd1f5b2372115ed\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Danny\Documents\summer17\Android\practiceExercises\Android-Class-Examples\ToDoList\app\build\intermediates\pre-dexed\debug\classes_832b90c97d9ffa7811ce7b428dd2e4cb21190d6e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Danny\.android\build-cache\1f563fcc9f74fa0e225f28d1f712c92266a83337\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Danny\Documents\summer17\Android\practiceExercises\Android-Class-Examples\ToDoList\app\build\intermediates\pre-dexed\debug\classes_02d31e22e26ea6da746f728b64e51af4abfc5980.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Danny\.android\build-cache\14f61d6cb4c3bdc2864df120114be9859c9c291d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Danny\Documents\summer17\Android\practiceExercises\Android-Class-Examples\ToDoList\app\build\intermediates\pre-dexed\debug\classes_1da8ca122b20738bb9aea76fd69728e8520745e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Danny\.android\build-cache\fd78b5c7351e0eeafe33bb178c1dd0113818073e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Danny\Documents\summer17\Android\practiceExercises\Android-Class-Examples\ToDoList\app\build\intermediates\pre-dexed\debug\classes_2bc3b7d7438e899cebafe34cc57d94996e16a33d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danny\Documents\summer17\Android\practiceExercises\Android-Class-Examples\ToDoList\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Danny\Documents\summer17\Android\practiceExercises\Android-Class-Examples\ToDoList\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_6a2354cffea9b51cf6732a0e6049004b621eed00\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Danny\.android\build-cache\53cdd43a542d4c3370bfeade0154af2b5d1e843c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="662d7533b25a666c649c10a16b42edfb95f25a4f">
+        <dex dex="C:\Users\Danny\Documents\summer17\Android\practiceExercises\Android-Class-Examples\ToDoList\app\build\intermediates\pre-dexed\debug\classes_9c7fb0fd43ecdec6e06b0ffcd42c4c83f7836796.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Danny\.android\build-cache\2b34efa0909cb6e41c8ea96632e811d34e76554a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Danny\Documents\summer17\Android\practiceExercises\Android-Class-Examples\ToDoList\app\build\intermediates\pre-dexed\debug\classes_fb199bd9f9ddfa112346f491bbf2e7e40a3bf034.jar" />
+    </item>
+
+</items>
